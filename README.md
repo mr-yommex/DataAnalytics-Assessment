@@ -1,7 +1,7 @@
 DATA ANALYST ASSESSMENT
-===================================================================
-- Assessment_Q1.sql - High-Value Customers with Multiple Products
 
+=========================================================================
+- Assessment_Q1.sql - High-Value Customers with Multiple Products
 
 APPROACH:
 
