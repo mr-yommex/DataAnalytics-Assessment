@@ -53,7 +53,7 @@ CHALLENGES:
 2. The process of ensuring the accurate selection of the most recent transaction date per owner_id was also a bit challenging. However, I was able to achieve this using common table expressions for this one as well.  
 
 ========================================================================
-## Assessment_Q4.sql - Customer Lifetime Value (CLV) Estimation
+- Assessment_Q4.sql - Customer Lifetime Value (CLV) Estimation
 
 
 APPROACH:
